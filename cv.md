@@ -8,7 +8,7 @@
 
 **Phone:** +998 93 160 44 11<br>
 **E-mail:** aabdurauf004@gmail.com<br>
-**Telegram:** https://t.me/aabdurauf004<br>
+**Telegram:** https://t.me/just_abdu<br>
 [LinkedIn](https://www.linkedin.com/in/abdurauf-ashurov-656415213/)
 
 ---
@@ -26,7 +26,7 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 ### Skills:
 
 - JavaScript, TypeScript
-- React.js, Redux.js
+- React.js, Redux.js, Next.js
 - HTML, Markdown
 - CSS, SCSS, Sass, Bootstrap, styled-components, react-boostrap, Less, TailwindCSS
 - GitHub, Netlify
